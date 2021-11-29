@@ -72,56 +72,71 @@
 
 1. 시작 화면
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4447a81-aebb-4b40-8444-ec622891201f/1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c4447a81-aebb-4b40-8444-ec622891201f/1.png)
+![1](https://user-images.githubusercontent.com/48784292/143876453-ecf8e794-02b2-4d71-8e76-25f200bab000.png)
+</br>
     
 2. 회원가입
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7786bd2-ebfc-4dc9-a8c0-1d40c0a22b59/2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b7786bd2-ebfc-4dc9-a8c0-1d40c0a22b59/2.png)
+![2](https://user-images.githubusercontent.com/48784292/143876657-02e7f4bb-f2d4-4e39-864f-baabbeffb52c.png)
+</br>
     
 3. 로그인
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a9a2d2ca-a734-4cc1-9765-8a5216a69ec5/3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a9a2d2ca-a734-4cc1-9765-8a5216a69ec5/3.png)
+![3](https://user-images.githubusercontent.com/48784292/143876615-fb1cb164-6ba6-434c-be00-0c91cf293c3a.png)
+</br>
     
 4. 당월, 익월 달력 출력
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6259ddc0-1538-4d95-8e58-3396fafad7bc/4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6259ddc0-1538-4d95-8e58-3396fafad7bc/4.png)
+![4](https://user-images.githubusercontent.com/48784292/143876758-0454fa40-b160-4099-8f2c-87ee79d12af2.png)
+</br>
+
     
 5. 대여/반납 날짜 및 시간 입력
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e5ef757-c05c-4502-9d76-6669475dd200/5.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e5ef757-c05c-4502-9d76-6669475dd200/5.png)
+![5](https://user-images.githubusercontent.com/48784292/143876776-c7a84bd7-296d-4bd3-ac42-268358c98b74.png)
+</br>
     
 6. 대여 가능한 차량 목록 출력 및 차량 선택
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e6369c7e-db15-4630-ac50-c87e5fc6c3e0/6.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e6369c7e-db15-4630-ac50-c87e5fc6c3e0/6.png)
+![6](https://user-images.githubusercontent.com/48784292/143876786-fd6251a4-333d-4555-8940-60b8b08b992f.png)
+</br>
     
 7. 보험 옵션 선택 
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/548b6301-bca0-4a97-bd60-1cc42c8b8bb3/7.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/548b6301-bca0-4a97-bd60-1cc42c8b8bb3/7.png)
+![7](https://user-images.githubusercontent.com/48784292/143876795-0bc791b6-f41f-4d59-92b8-62d4cab208a8.png)
+</br>
     
 8. 총 결제 금액 계산 및 예약 내용 확인
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d542d15-196a-41c5-9647-9f9c14633a71/8.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d542d15-196a-41c5-9647-9f9c14633a71/8.png)
+![8](https://user-images.githubusercontent.com/48784292/143876800-583125d1-391a-4aa0-bbb2-c59cc981520c.png)
+</br>
     
 9. 쿠폰 적용 및 결제
-    
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94253b55-d5cc-4879-8998-e2d09141d31d/9.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94253b55-d5cc-4879-8998-e2d09141d31d/9.png)
+
+![9](https://user-images.githubusercontent.com/48784292/143876849-bbe2af67-36e2-46c3-89ae-21fea5930e78.png)
+</br>
     
 10. 결제 방식 선택 및 결제
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c08278d-0e6a-4e47-b4ed-df36a9aa4696/10.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c08278d-0e6a-4e47-b4ed-df36a9aa4696/10.png)
+![10](https://user-images.githubusercontent.com/48784292/143876871-2e906dcf-9041-4491-9193-a16ad5f38b29.png)
+</br>
     
 11. 현금 결제 시 거스름 돈 출력
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2716a32e-446d-419e-8fc3-371622e9655c/11.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2716a32e-446d-419e-8fc3-371622e9655c/11.png)
+![11](https://user-images.githubusercontent.com/48784292/143876894-64441702-2d64-4124-b986-9a8430e67523.png)
+</br>
     
 12. 예약확인서 출력
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7779e1a3-02fb-4f8b-837b-10948d631c11/12.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7779e1a3-02fb-4f8b-837b-10948d631c11/12.png)
+![12](https://user-images.githubusercontent.com/48784292/143876897-096890df-e9dd-4920-bbe3-4dd879af183b.png)
+</br>
     
 13. 재로그인 시 예약 내역서 발급
-    
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/971d962e-b6f3-4382-a927-a3f242362d57/13.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/971d962e-b6f3-4382-a927-a3f242362d57/13.png)
+
+![13](https://user-images.githubusercontent.com/48784292/143876900-9909b8e1-968e-4ec3-abd6-f291a11d3129.png)
+</br>
     
 14. 관리자 모드  
     
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eea286bf-f4ce-498a-8807-a8824eedc02b/14.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/eea286bf-f4ce-498a-8807-a8824eedc02b/14.png)
+![14](https://user-images.githubusercontent.com/48784292/143876912-343d3603-c262-4ae7-8348-792cb23773c7.png)
+</br>
